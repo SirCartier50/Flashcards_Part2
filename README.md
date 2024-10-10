@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<a href="">Walkthrough link</a>
+<a href="https://imgur.com/s8j6OXu">Walkthrough link</a>
 
 GIF created with ...  
 
