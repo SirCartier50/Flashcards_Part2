@@ -1,19 +1,19 @@
 # Web Development Project 3 - *Name of App Here*
 
-Submitted by: **Your Name Here**
+Submitted by: Mignot Mesele
 
 This web app: **insert description**
 
-Time spent: **X** hours spent in total
+Time spent: 5
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] **The user can enter their guess in a box before seeing the flipside of the card**
-- [ ] **Clicking on a submit button shows visual feedback about whether the answer was correct or incorrect**
-- [ ] **A back button is displayed on the card and can be used to return to the previous card in a set sequence**
-- [ ] **A next button is displayed on the card and can be used to navigate to the next card in a set sequence**
+- [X] **The user can enter their guess in a box before seeing the flipside of the card**
+- [X] **Clicking on a submit button shows visual feedback about whether the answer was correct or incorrect**
+- [X] **A back button is displayed on the card and can be used to return to the previous card in a set sequence**
+- [X] **A next button is displayed on the card and can be used to navigate to the next card in a set sequence**
 
 The following **optional** features are implemented:
 
@@ -30,14 +30,11 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<a href="">Walkthrough link</a>
 
-<!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
-<!-- Recommended tools:
+
 [Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
 
 ## Notes
 
@@ -45,7 +42,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2024 Mignot Mesele
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
